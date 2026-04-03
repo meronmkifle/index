@@ -2,6 +2,8 @@
 
 A side-by-side reference guide that translates your R/tidyverse fluency into Python/pandas — from first line to production ETL pipelines.
 
+<img width="569" height="194" alt="image" src="https://github.com/user-attachments/assets/771130b4-facf-4e97-9efc-5e59e230fc5a" />
+
 ## Who This Is For
 
 Data analysts and researchers who already work in R with the tidyverse and want to add Python without starting from scratch. If you know `dplyr`, `ggplot2`, and `tidyr`, you already understand 80% of the concepts — this guide gives you the syntax.
